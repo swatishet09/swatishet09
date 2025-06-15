@@ -4,6 +4,9 @@
 
 ![Swati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatishet09&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatishet09&layout=compact&theme=radical)
+
+
 
 - 🔭 I’m currently working on: **Cloud Security App**
 - 

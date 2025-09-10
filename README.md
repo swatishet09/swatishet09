@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Swati
-### 💻 Aspiring Software Developer |
+### 💻 Aspiring Software Developer 
 
 ![Swati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatishet09&show_icons=true&theme=radical)
 --
@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on: **Cloud Security App**
+- 🔭 I’m currently working on: **Shield Cloud Project**
 - 
 - 🌱 Currently learning: **Backend Integration, AWS**
 - 

@@ -9,13 +9,13 @@
 
 
 
-- 🔭 I’m currently working on: **Shield Cloud Project**
+- 🔭 I’m currently working on: **SJ Jewelry Application**
 - 
 - 🌱 Currently learning: **Backend Integration, AWS**
 - 
 - 👯 Looking to collaborate on: **Web Dev projects**
 - 
-- 💬 Ask me about: **React, MySql, Java**
+- 💬 Ask me about: **Node.js, React, MySql, Java**
 - 
 - 📫 Reach me at: **swatishet04@gmail.com**
 
